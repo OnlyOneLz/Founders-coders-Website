@@ -22,7 +22,7 @@ p {
 .icon-arrow{
     display: flex;
     align-items: center;
-    height: 2rem;
+    height: 1vh;
 }
 /* TRANSITION */
 
