@@ -277,7 +277,8 @@ section {
     gap: 2rem;
     margin-bottom: 2rem;
     margin-top: 2rem;
-    
+    flex-wrap: wrap;
+}
 
 .about-details-container {
     justify-content: center;
@@ -288,7 +289,6 @@ section {
 .about-details-container {
     display: flex;
     flex-wrap: wrap;
-}
 }
 
 .about-pic {
