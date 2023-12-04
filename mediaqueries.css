@@ -82,7 +82,12 @@
     .contact-info-upper-container,
     .btn-container {
         flex-wrap: wrap;
-        flex-direction: column;
+        flex-direction: row;
+    }
+
+    .about-containers{
+        display: flex;
+        flex-wrap: wrap;
     }
 
     .contact-info-container {
