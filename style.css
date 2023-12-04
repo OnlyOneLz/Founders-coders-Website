@@ -363,6 +363,8 @@ article .icon {
 
 #projects {
     position: relative;
+    display: flex;
+    justify-content: space-between;
 }
 
 .color-container {
