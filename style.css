@@ -283,13 +283,11 @@ section {
 .about-details-container {
     justify-content: center;
     flex-direction: column;
-    flex-wrap: wrap;
 }
 
 .about-containers,
 .about-details-container {
     display: flex;
-    flex-wrap: wrap;
 }
 
 .about-pic {
