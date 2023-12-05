@@ -358,6 +358,8 @@ article .icon {
 
 #projects {
     position: relative;
+    display: flex;
+    flex-direction: column;
 }
 
 .color-container {
