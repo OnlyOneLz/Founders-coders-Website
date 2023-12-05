@@ -288,9 +288,17 @@ section {
 }
 
 .arrow {
-    position: absolute;
-    right: -5rem;
+    position: static;
+    margin-left: 34rem;
     bottom: 2.5rem;
+}
+
+.arrow-icon {
+    position: sticky;
+    cursor: pointer;
+    margin-left: 79vmin;
+    margin-right: 79vmin;
+    height: 2rem;
 }
 
 .details-container {
